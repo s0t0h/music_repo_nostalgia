@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cvukyxmg042ok"
+path="res://.godot/imported/RUSTED MUSIC STUDIO - Metropolitan.mp3-a95b54748b37aa18caa7a4fead184728.mp3str"
+
+[deps]
+
+source_file="res://music/lofi/LOFI/RUSTED MUSIC STUDIO - Metropolitan.mp3"
+dest_files=["res://.godot/imported/RUSTED MUSIC STUDIO - Metropolitan.mp3-a95b54748b37aa18caa7a4fead184728.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

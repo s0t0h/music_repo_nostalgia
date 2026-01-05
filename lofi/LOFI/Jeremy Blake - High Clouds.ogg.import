@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://xillwy8vdwue"
+path="res://.godot/imported/Jeremy Blake - High Clouds.ogg-c479cc88b5f2dee00b8f10621eb563be.oggvorbisstr"
+
+[deps]
+
+source_file="res://music/lofi/LOFI/Jeremy Blake - High Clouds.ogg"
+dest_files=["res://.godot/imported/Jeremy Blake - High Clouds.ogg-c479cc88b5f2dee00b8f10621eb563be.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

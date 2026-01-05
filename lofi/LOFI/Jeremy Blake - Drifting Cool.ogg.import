@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bobwcy36im3kc"
+path="res://.godot/imported/Jeremy Blake - Drifting Cool.ogg-74c4c165917e32152db5170c33979b1b.oggvorbisstr"
+
+[deps]
+
+source_file="res://music/lofi/LOFI/Jeremy Blake - Drifting Cool.ogg"
+dest_files=["res://.godot/imported/Jeremy Blake - Drifting Cool.ogg-74c4c165917e32152db5170c33979b1b.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

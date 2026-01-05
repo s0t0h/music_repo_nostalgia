@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="Radio" load_steps=6 format=3 uid="uid://c57craqf42n3e"]
+
+[ext_resource type="AudioStream" uid="uid://c4gmhlrfk7qae" path="res://music/vaporwave/SteviaDX/Stevia Sphere -  Genom natten i en dators sken.ogg" id="1_b087y"]
+[ext_resource type="Script" uid="uid://cf47xnw2mxs5g" path="res://systems/music_system/radio_resource.gd" id="1_louve"]
+[ext_resource type="AudioStream" uid="uid://cmxi744vmn00b" path="res://music/vaporwave/SteviaDX/Stevia Sphere - Betonghus.ogg" id="2_brovd"]
+[ext_resource type="AudioStream" uid="uid://bkhiby142b3tf" path="res://music/vaporwave/SteviaDX/Stevia Sphere - Diskette 1- Virtual Rooftop.ogg" id="3_0jvb5"]
+[ext_resource type="AudioStream" uid="uid://qsodbkfgenii" path="res://music/vaporwave/SteviaDX/Stevia Sphere - They're out there.ogg" id="4_m4udw"]
+
+[resource]
+script = ExtResource("1_louve")
+playlist = Array[AudioStream]([ExtResource("1_b087y"), ExtResource("2_brovd"), ExtResource("3_0jvb5"), ExtResource("4_m4udw")])
+metadata/_custom_type_script = "uid://cf47xnw2mxs5g"

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://ptcp2gvnbwdj"
+path="res://.godot/imported/Jeremy Blake - Kite Flying.ogg-5de5664a5edef69ef701335258597a29.oggvorbisstr"
+
+[deps]
+
+source_file="res://music/lofi/LOFI/Jeremy Blake - Kite Flying.ogg"
+dest_files=["res://.godot/imported/Jeremy Blake - Kite Flying.ogg-5de5664a5edef69ef701335258597a29.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

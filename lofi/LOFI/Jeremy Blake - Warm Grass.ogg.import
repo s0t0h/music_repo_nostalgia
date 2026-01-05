@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c73eaeiw4effd"
+path="res://.godot/imported/Jeremy Blake - Warm Grass.ogg-93a36914b85f2f7781f481a8f5bee783.oggvorbisstr"
+
+[deps]
+
+source_file="res://music/lofi/LOFI/Jeremy Blake - Warm Grass.ogg"
+dest_files=["res://.godot/imported/Jeremy Blake - Warm Grass.ogg-93a36914b85f2f7781f481a8f5bee783.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

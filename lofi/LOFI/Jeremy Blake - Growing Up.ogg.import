@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dic8xvfo6s4r3"
+path="res://.godot/imported/Jeremy Blake - Growing Up.ogg-2cace637b6e2c10a9b8a579ae42445be.oggvorbisstr"
+
+[deps]
+
+source_file="res://music/lofi/LOFI/Jeremy Blake - Growing Up.ogg"
+dest_files=["res://.godot/imported/Jeremy Blake - Growing Up.ogg-2cace637b6e2c10a9b8a579ae42445be.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

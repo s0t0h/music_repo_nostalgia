@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c0gdb0sfh4jq"
+path="res://.godot/imported/RUSTED MUSIC STUDIO - Decaffeinato.mp3-9c34d0b572d88b15d32917d4a483d506.mp3str"
+
+[deps]
+
+source_file="res://music/lofi/LOFI/RUSTED MUSIC STUDIO - Decaffeinato.mp3"
+dest_files=["res://.godot/imported/RUSTED MUSIC STUDIO - Decaffeinato.mp3-9c34d0b572d88b15d32917d4a483d506.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dnxjlj3wrbvrd"
+path="res://.godot/imported/Jeremy Blake - Deeper Water.ogg-3863ae81d55e70908042087701ff09f1.oggvorbisstr"
+
+[deps]
+
+source_file="res://music/lofi/LOFI/Jeremy Blake - Deeper Water.ogg"
+dest_files=["res://.godot/imported/Jeremy Blake - Deeper Water.ogg-3863ae81d55e70908042087701ff09f1.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

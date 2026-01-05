@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cq8k4bbd6o56o"
+path="res://.godot/imported/RUSTED MUSIC STUDIO - Cookie.mp3-cac28c4b6a024e144cb55878013ccf8f.mp3str"
+
+[deps]
+
+source_file="res://music/lofi/LOFI/RUSTED MUSIC STUDIO - Cookie.mp3"
+dest_files=["res://.godot/imported/RUSTED MUSIC STUDIO - Cookie.mp3-cac28c4b6a024e144cb55878013ccf8f.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

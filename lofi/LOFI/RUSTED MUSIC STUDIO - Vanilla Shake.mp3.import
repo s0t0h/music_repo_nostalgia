@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b4ppsv1eoa7dv"
+path="res://.godot/imported/RUSTED MUSIC STUDIO - Vanilla Shake.mp3-f0fc512c4d93bc38daac6e9bfb46cf41.mp3str"
+
+[deps]
+
+source_file="res://music/lofi/LOFI/RUSTED MUSIC STUDIO - Vanilla Shake.mp3"
+dest_files=["res://.godot/imported/RUSTED MUSIC STUDIO - Vanilla Shake.mp3-f0fc512c4d93bc38daac6e9bfb46cf41.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://lar8cinkasen"
+path="res://.godot/imported/Jeremy Blake - Tranquil.ogg-2c5a18a63feb8ea5e4b34c1c7df44cc6.oggvorbisstr"
+
+[deps]
+
+source_file="res://music/lofi/LOFI/Jeremy Blake - Tranquil.ogg"
+dest_files=["res://.godot/imported/Jeremy Blake - Tranquil.ogg-2c5a18a63feb8ea5e4b34c1c7df44cc6.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

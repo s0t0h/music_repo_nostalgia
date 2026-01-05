@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bl1xg56q212j"
+path="res://.godot/imported/Jeremy Blake - Soft Lights.ogg-5a5582d3d6e6540aea6839ead7845544.oggvorbisstr"
+
+[deps]
+
+source_file="res://music/lofi/LOFI/Jeremy Blake - Soft Lights.ogg"
+dest_files=["res://.godot/imported/Jeremy Blake - Soft Lights.ogg-5a5582d3d6e6540aea6839ead7845544.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b1sfosl668lhg"
+path="res://.godot/imported/RUSTED MUSIC STUDIO - Carrot Cake.mp3-6d475618e47e844ea4e2cb6591b521f4.mp3str"
+
+[deps]
+
+source_file="res://music/lofi/LOFI/RUSTED MUSIC STUDIO - Carrot Cake.mp3"
+dest_files=["res://.godot/imported/RUSTED MUSIC STUDIO - Carrot Cake.mp3-6d475618e47e844ea4e2cb6591b521f4.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
